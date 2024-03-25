@@ -30,3 +30,4 @@ else:
   checksum=((len(l[0])-len(sum))*"0")+sum
   checksum = "".join([str(int(not int(bit))) for bit in checksum])
   print("Check sum:", checksum)
+print("Receiver code : ")
