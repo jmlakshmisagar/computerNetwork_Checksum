@@ -59,3 +59,4 @@ if "1" in validate:
   print("\nError detected")
 else:
   print("\nNo error detected")
+print("Checksum completed")
